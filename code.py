@@ -2,14 +2,14 @@
 
 # Created by: Matsuru Hoshi
 # Created on: Sept 2019
-# This is program for volume of square base pyramid 
+# This is program for volume of square base pyramid
 
 
 def main():
     # funciton calculates circumference
 
     # welcome
-    input( "This is the square-based pyramid volume calculator!")
+    input("This is the square-based pyramid volume calculator!")
 
     # input
     length = float(input("What is one side of the base:"))
