@@ -6,7 +6,7 @@
 
 
 def main():
-    # funciton calculates circumference
+    # funciton calculates volume
 
     # welcome
     input("This is the square-based pyramid volume calculator!")
